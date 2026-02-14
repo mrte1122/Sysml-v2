@@ -1,0 +1,15 @@
+{
+  "kind_rules": {
+    "constraintblock": "ConstraintDefinition",
+    "valuetype": "ValueType"
+  },
+  "relation_rules": {
+    "refine": "refine",
+    "satisfy": "satisfy",
+    "verify": "verify"
+  },
+  "text_keywords": {
+    "ConstraintDefinition": "constraint def",
+    "ValueType": "attribute def"
+  }
+}
